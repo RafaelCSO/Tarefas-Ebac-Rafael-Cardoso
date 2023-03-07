@@ -1,0 +1,12 @@
+1-abra os olhos
+2-desligue o despertador
+3-levante
+4-abra a porta
+5-vá ao banheiro
+6-abra a torneira
+7-lave o rosto
+8- enxague o rosto
+9- seque o rosto
+10-esquente o café
+11- coloque o café na xícara
+12-beba o café
